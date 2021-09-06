@@ -1,0 +1,13 @@
+// All the scss code for index.html goes here
+// The following are your imports from other folders
+
+@import '../../colors/colors'; // TO UPDATE the following to @use 
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    color: $sample-black;
+}
